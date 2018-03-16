@@ -1,0 +1,12 @@
+META-INF\maven\fourthpro\fourthpro\pom.properties
+com\example\generics\Stack.class
+com\example\generics\TestCacheAnyDiamond.class
+META-INF\maven\fourthpro\fourthpro\pom.xml
+com\example\generics\CacheString.class
+META-INF\MANIFEST.MF
+com\example\generics\Shirt.class
+com\example\generics\CacheShirt.class
+com\example\generics\StackTest.class
+com\example\generics\TestCacheObject.class
+com\example\generics\CacheAny.class
+com\example\generics\TestCacheAny.class
